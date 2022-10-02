@@ -1,3 +1,4 @@
-baseURL = "https://wallpaper.indonesiya.com"
+baseURL = "https://solarsheetmusicwow.vercel.app"
 languageCode = "en-us"
-title = "Wallpaper Indonesiya"
+title = "Solar Sheet Music PDF"
+theme = "hugo-theme-minos"

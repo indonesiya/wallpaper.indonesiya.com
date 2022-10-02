@@ -1,4 +1,0 @@
-baseURL = "https://solarsheetmusicwow.vercel.app"
-languageCode = "en-us"
-title = "Solar Sheet Music PDF"
-theme = "hugo-theme-minos"
