@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Categories on wallpaperlist</title>
+    <title>Categories on Wallpaper</title>
     <link>https://wallpaper.indonesiya.com/categories/</link>
-    <description>Recent content in Categories on wallpaperlist</description>
+    <description>Recent content in Categories on Wallpaper</description>
     <image>
       <url>https://wallpaper.indonesiya.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
       <link>https://wallpaper.indonesiya.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
@@ -11,11 +11,11 @@
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Wed, 28 Sep 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://wallpaper.indonesiya.com/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Wallpaper List</title>
-      <link>https://wallpaper.indonesiya.com/categories/wallpaper-list/</link>
+      <title>Wallpaper</title>
+      <link>https://wallpaper.indonesiya.com/categories/wallpaper/</link>
       <pubDate>Wed, 28 Sep 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://wallpaper.indonesiya.com/categories/wallpaper-list/</guid>
+      <guid>https://wallpaper.indonesiya.com/categories/wallpaper/</guid>
       <description></description>
     </item>
     
