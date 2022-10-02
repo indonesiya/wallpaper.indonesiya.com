@@ -31,6 +31,7 @@
             {{ end }}
         </div>
         <div class="article-entry" itemprop="articleBody">
+            {{ partial "ads-top.html" . }}
             {{ .Content }}
         </div>
 
@@ -83,6 +84,7 @@
         </script>
         {{ end }}
 
+        {{ partial "ads-bottom.html" . }}
 
         {{ if .Params.tags }}
         <footer class="article-footer">
