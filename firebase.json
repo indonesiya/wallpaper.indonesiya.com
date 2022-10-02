@@ -1,0 +1,11 @@
+{
+  "hosting": {
+    "site": "topi-poso",
+    "public": "public",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ]
+  }
+}

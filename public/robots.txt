@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://wallpaper.indonesiya.com/sitemap.xml
