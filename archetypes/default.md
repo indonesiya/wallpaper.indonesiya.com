@@ -1,6 +1,5 @@
-+++
-Description = ""
-Tags = ["development", "golang"]
-Categories = ["Development", "Golang"]
-menu = ""
-+++
+---
+title: "{{ replace .Name "-" " " | title }}"
+date: {{ .Date }}
+draft: true
+---
